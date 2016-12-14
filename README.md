@@ -1,6 +1,13 @@
 `ssl_expiry` let's you quickly check the SSL certificate expiry date for a domain.
 
 
+### Installation
+
+```
+> pip install -U ssl_expiry
+```
+
+
 ### Usage
 
 ```
