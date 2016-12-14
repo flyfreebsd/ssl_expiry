@@ -1,4 +1,4 @@
-`ssl_expiry` let's you quickly check the SSL expiry date of a domain.
+`ssl_expiry` let's you quickly check the SSL certificate expiry date for a domain.
 
 
 ### Usage

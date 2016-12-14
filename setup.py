@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 
-import sys, os
-import setuptools
+import os
+import sys
 
+import setuptools
 
 version = '0.1.0'
 
